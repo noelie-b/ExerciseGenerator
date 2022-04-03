@@ -1,0 +1,2 @@
+Main-class: fr.inalco.im2021.bottero ExerciceDeLangues
+
